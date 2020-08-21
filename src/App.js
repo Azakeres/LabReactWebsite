@@ -10,7 +10,6 @@ import Member from './components/Member';
 import Navbar from './components/Navbar'
 import Test from './components/Test';
 import {container, Row, Col} from 'react-bootstrap';
-import members from './data';
 
 import { csv } from 'd3';
 import membersCsv from './members.csv';
